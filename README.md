@@ -19,6 +19,7 @@ Dataset: https://www.kaggle.com/dhruvmak/face-mask-detection
 
 ## Usage ## 
 1. Download or clone this repo
+3. Unzip model_data.zip folder
 2. Run detect.py
 
 ## References ## 
