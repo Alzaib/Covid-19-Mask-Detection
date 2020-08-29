@@ -1,5 +1,8 @@
 # Covid-19-Mask-Detection
 ## Demo ##
+
+![gif](demo/demo.gif)
+
 ## About ##
 This is a small project I worked on for a day to detect if a person is wearing a mask. It uses OpenCV's DNN module to detect the faces which are then passed into a convolutional neural network trained on 440 images to predicting the output.
 ## Dataset ##
